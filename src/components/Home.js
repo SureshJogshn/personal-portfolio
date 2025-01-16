@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import Typed from 'typed.js'
+import Footer from './Footer';
 
 const Home = () => {
     const typedElement = useRef(null);
@@ -39,6 +40,7 @@ const Home = () => {
                         download >Download Resume</a>
                 </div>
             </div>
+            <Footer />
         </section>
     )
 }
