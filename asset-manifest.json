@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6732611d.css",
+    "main.js": "/static/js/main.1fa16bba.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/SURESH-KUMAR.pdf": "/static/media/SURESH-KUMAR.b31da50474c153cb5c81.pdf",
+    "index.html": "/index.html",
+    "main.6732611d.css.map": "/static/css/main.6732611d.css.map",
+    "main.1fa16bba.js.map": "/static/js/main.1fa16bba.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6732611d.css",
+    "static/js/main.1fa16bba.js"
+  ]
+}
